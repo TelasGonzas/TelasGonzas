@@ -138,7 +138,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-estarriol/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Javier LinkedIn's " height="120" width="200" style="margin-right: 24px"/></a>
     <br>
-    <a href="mailto:jgestarriol@gmail.com" target="_blank"> <img align="center" src="assets/gmail-ar21.svg" alt="Javier Gmail's" height="90" width="150" style="margin-right: 32px"/></a>
+    <a href="mailto:jgestarriol@gmail.com" target="_blank"> <img align="center" src="[assets/gmail-ar21.svg](https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png)" alt="Javier Gmail's" height="90" width="150" style="margin-right: 32px"/></a>
 </p>
 
 <br>
