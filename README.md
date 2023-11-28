@@ -4,7 +4,7 @@
 
 <div align="center">
     <image style="background-color: #565859" src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="200"/>
-    <h2>Currently living in Madrid. I am passionate about creating new projects and improving them to their full potential!</h2>
+    <h2>Currently living in Astorga(León) I am passionate about creating new projects and improving them to their full potential!</h2>
     <h3>I've a strong background in React/Redux, TypeScript, Node.js, Git and Github.</h3>
 </div>
 
